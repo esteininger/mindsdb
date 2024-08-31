@@ -1082,6 +1082,7 @@
               "group": "Video Models",
               "pages": [
                 "integrations/ai-engines/twelvelabs",
+                "integrations/ai-engines/mixpeek",
                 "integrations/ai-engines/replicate-text2video"
               ]
             }
